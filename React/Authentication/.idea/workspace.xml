@@ -2,81 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c620f68-aa62-4298-acda-7749a0552894" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/nodeapiserver/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/nodeapiserver/router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/.idea/testing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/.idea/webResources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/src/Root.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/src/__tests__/integrations.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/src/actions/__tests__/index.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/src/actions/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/src/actions/types.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/src/components/CommentBox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/src/components/CommentList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/src/components/__tests__/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/src/components/__tests__/CommentBox.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/src/components/__tests__/CommetList.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/src/components/requireAuth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/src/reducers/__tests__/comments.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/src/reducers/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/src/reducers/comments.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/src/reducers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentHigherOrder/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/.idea/testing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/.idea/webResources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/src/Root.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/src/__tests__/integrations.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/src/actions/__tests__/index.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/src/actions/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/src/actions/types.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/src/components/CommentBox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/src/components/CommentList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/src/components/__tests__/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/src/components/__tests__/CommentBox.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/src/components/__tests__/CommetList.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/src/components/requireAuth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/src/middlewares/async.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/src/middlewares/stateValidator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/src/middlewares/statesSchema.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/src/reducers/__tests__/comments.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/src/reducers/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/src/reducers/comments.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/src/reducers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommentMiddleware/src/setupTests.js" afterDir="false" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server/nodeapiserver/models/user.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/server/apiserver/app/Providers/AppServiceProvider.php" afterPath="$PROJECT_DIR$/server/apiserver/app/Providers/AppServiceProvider.php" />
+      <change beforePath="$PROJECT_DIR$/server/apiserver/app/Providers/AuthServiceProvider.php" afterPath="$PROJECT_DIR$/server/apiserver/app/Providers/AuthServiceProvider.php" />
+      <change beforePath="$PROJECT_DIR$/server/apiserver/app/User.php" afterPath="$PROJECT_DIR$/server/apiserver/app/User.php" />
+      <change beforePath="$PROJECT_DIR$/server/apiserver/composer.json" afterPath="$PROJECT_DIR$/server/apiserver/composer.json" />
+      <change beforePath="$PROJECT_DIR$/server/apiserver/composer.lock" afterPath="$PROJECT_DIR$/server/apiserver/composer.lock" />
+      <change beforePath="$PROJECT_DIR$/server/apiserver/config/auth.php" afterPath="$PROJECT_DIR$/server/apiserver/config/auth.php" />
+      <change beforePath="$PROJECT_DIR$/server/nodeapiserver/package-lock.json" afterPath="$PROJECT_DIR$/server/nodeapiserver/package-lock.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,30 +53,105 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/nodeapiserver/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/nodeapiserver/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="router.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/nodeapiserver/router.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+              <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/nodeapiserver/models/user.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".env.example" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/apiserver/.env.example">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".env" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/apiserver/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014_10_12_000000_create_users_table.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/apiserver/database/migrations/2014_10_12_000000_create_users_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppServiceProvider.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/apiserver/app/Providers/AppServiceProvider.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <element signature="e#33#71#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/apiserver/config/database.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/apiserver/app/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AuthServiceProvider.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/apiserver/app/Providers/AuthServiceProvider.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auth.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/apiserver/config/auth.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="43" column="18" lean-forward="false" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -161,6 +174,12 @@
         <option value="$PROJECT_DIR$/server/nodeapiserver/package.json" />
         <option value="$PROJECT_DIR$/server/nodeapiserver/index.js" />
         <option value="$PROJECT_DIR$/server/nodeapiserver/router.js" />
+        <option value="$PROJECT_DIR$/server/apiserver/.env" />
+        <option value="$PROJECT_DIR$/server/apiserver/app/Providers/AppServiceProvider.php" />
+        <option value="$PROJECT_DIR$/server/apiserver/app/User.php" />
+        <option value="$PROJECT_DIR$/server/apiserver/app/Providers/AuthServiceProvider.php" />
+        <option value="$PROJECT_DIR$/server/apiserver/config/auth.php" />
+        <option value="$PROJECT_DIR$/server/nodeapiserver/models/user.js" />
       </list>
     </option>
   </component>
@@ -179,41 +198,53 @@
       <path value="$PROJECT_DIR$/server/nodeapiserver/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="1920" />
-    <option name="y" value="-2" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1440" />
+    <option name="y" value="-304" />
     <option name="width" value="960" />
-    <option name="height" value="1082" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Authentication" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Authentication" type="462c0819:PsiDirectoryNode" />
+              <item name="Authentication" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="Authentication" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Authentication" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="Authentication" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="server" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="Authentication" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Authentication" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="nodeapiserver" type="462c0819:PsiDirectoryNode" />
+              <item name="Authentication" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="server" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="nodeapiserver" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -236,6 +267,9 @@
       </list>
     </option>
   </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -247,35 +281,36 @@
       <option name="presentableId" value="Default" />
       <updated>1537804329964</updated>
       <workItem from="1537804331195" duration="1263000" />
+      <workItem from="1537809544997" duration="1490000" />
+      <workItem from="1537811957476" duration="470000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1263000" />
+    <option name="totallyTimeSpent" value="3223000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="-2" width="960" height="1082" extended-state="4" />
-    <editor active="true" />
+    <frame x="1440" y="-304" width="960" height="1057" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24726477" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24509804" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,18 +319,98 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server/nodeapiserver/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/nodeapiserver/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/apiserver/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/apiserver/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/apiserver/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#33#71#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/apiserver/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/apiserver/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/apiserver/app/Providers/AuthServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/apiserver/config/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="18" lean-forward="true" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server/nodeapiserver/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server/nodeapiserver/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -303,6 +418,105 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/nodeapiserver/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/nodeapiserver/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/apiserver/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/apiserver/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/apiserver/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/apiserver/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#33#71#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/apiserver/app/Providers/AuthServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/apiserver/config/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="18" lean-forward="false" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/apiserver/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/apiserver/.env.example">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/nodeapiserver/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/nodeapiserver/models/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
