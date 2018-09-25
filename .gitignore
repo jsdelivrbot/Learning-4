@@ -11,8 +11,10 @@ npm-debug.log
 vendor
 *vendor
 */vendor
-
+*config.js
 
 # IntelliJ
 *.iml
 /.idea
+*/.idea
+*.idea

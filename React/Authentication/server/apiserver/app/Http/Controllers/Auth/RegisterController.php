@@ -4,9 +4,12 @@ namespace App\Http\Controllers\Auth;
 
 use App\User;
 use App\Http\Controllers\Controller;
+use http\Env\Response;
+use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Foundation\Auth\RegistersUsers;
+use Psy\Util\Json;
 
 class RegisterController extends Controller
 {
@@ -61,12 +64,21 @@ class RegisterController extends Controller
      * @param  array  $data
      * @return \App\User
      */
-    protected function create(array $data)
+    protected function create(Request $request)
     {
-        return User::create([
-            'name' => $data['name'],
-            'email' => $data['email'],
-            'password' => Hash::make($data['password']),
+        if ( !User::where( 'email', $request['email'] )->get()->isEmpty() ) {
+            return response( [ "error" => "Email already in use" ], 401 );
+        }
+        $user = User::create([
+            'name' => $request['name'],
+            'email' => $request['email'],
+            'password' => Hash::make($request['password']),
         ]);
+
+        $user = $user->withAccessToken($user->createToken("password"));
+        $user->token = $user->token()->accessToken;
+
+        return $user->toJson();
+
     }
 }
